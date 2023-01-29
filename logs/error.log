@@ -1,0 +1,130 @@
+[14:37:15.909][ERRO] [原神签到失败][uid:228520173][qq:215381250 ] 绑定cookie已失效
+[14:57:52.325][ERRO] 重启失败
+Error: Command failed: npm start
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+[PM2][ERROR] Process 1 not found
+Process 1 not found
+E:\yunzai\Yunzai-Bot\node_modules\.pnpm\pm2@5.2.0\node_modules\pm2\lib\API.js:1717
+        acted.push(proc.pm2_env ? proc.pm2_env.pm_id : proc.pm_id)
+                        ^
+
+TypeError: Cannot read properties of undefined (reading 'pm2_env')
+    at E:\yunzai\Yunzai-Bot\node_modules\.pnpm\pm2@5.2.0\node_modules\pm2\lib\API.js:1717:25
+    at Array.forEach (<anonymous>)
+    at API.speedList (E:\yunzai\Yunzai-Bot\node_modules\.pnpm\pm2@5.2.0\node_modules\pm2\lib\API.js:1716:18)
+    at E:\yunzai\Yunzai-Bot\node_modules\.pnpm\pm2@5.2.0\node_modules\pm2\lib\binaries\CLI.js:301:15
+    at wrapper (E:\yunzai\Yunzai-Bot\node_modules\.pnpm\async@3.2.4\node_modules\async\internal\once.js:12:16)
+    at replenish (E:\yunzai\Yunzai-Bot\node_modules\.pnpm\async@3.2.4\node_modules\async\internal\eachOfLimit.js:76:25)
+    at iterateeCallback (E:\yunzai\Yunzai-Bot\node_modules\.pnpm\async@3.2.4\node_modules\async\internal\eachOfLimit.js:65:17)
+    at E:\yunzai\Yunzai-Bot\node_modules\.pnpm\async@3.2.4\node_modules\async\internal\onlyOnce.js:12:16
+    at E:\yunzai\Yunzai-Bot\node_modules\.pnpm\pm2@5.2.0\node_modules\pm2\lib\binaries\CLI.js:292:11
+    at E:\yunzai\Yunzai-Bot\node_modules\.pnpm\pm2@5.2.0\node_modules\pm2\lib\API.js:330:21
+
+    at ChildProcess.exithandler (node:child_process:398:12)
+    at ChildProcess.emit (node:events:527:28)
+    at maybeClose (node:internal/child_process:1092:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:302:5)
+[15:45:26.698][ERRO] 发送消息错误:{"type":"xml","data":"<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<msg brief=\"[聊天记录]\" m_fileName=\"5D5F1D69-AD01-B326-8206-AFE6F1E37561\" action=\"viewMultiMsg\" tSum=\"17\" flag=\"3\" m_resid=\"vWUFF16VLvOwrl/kOrlELNUvn0JnELGGQYhJfX49lhqMGLEI6NfBXcJ90P8cOJcb\" serviceID=\"35\" m_fileSize=\"157...
+[15:45:26.699][ERRO] ApiRejection { code: -70, message: '群消息发送失败，可能被风控' }
+[19:27:13.135][ERRO] 发送消息错误:{"type":"image","file":"https://upload-bbs.mihoyo.com/upload/2022/08/23/146326769/e91a721e59cd5e9a8dd654265517d306_25625432053692657.jpg"}
+[19:27:13.135][ERRO] ApiRejection { code: -70, message: '群消息发送失败，可能被风控' }
+[20:32:14.156][ERRO] Chromium实例关闭或崩溃！
+[20:32:14.288][ERRO] Chromium实例关闭或崩溃！
+[16:35:38.410][ERRO] 发送消息错误:{"type":"xml","data":"<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<msg brief=\"[聊天记录]\" m_fileName=\"E7CA969E-594A-DC9F-E16A-CAEA1B98CBC6\" action=\"viewMultiMsg\" tSum=\"3\" flag=\"3\" m_resid=\"PZYdXpzYYJuQLQk5D+UNYu710qoXfKaAs47YwA5XgbnSF5ZUzGKnrYLak9bxrrQR\" serviceID=\"35\" m_fileSize=\"423\...
+[16:35:38.411][ERRO] ApiRejection { code: -70, message: '群消息发送失败，可能被风控' }
+[16:38:29.896][ERRO] 发送消息错误:{"type":"xml","data":"<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<msg brief=\"[聊天记录]\" m_fileName=\"58412DAD-4C5D-9426-FB1E-D9745EA1A0CD\" action=\"viewMultiMsg\" tSum=\"1\" flag=\"3\" m_resid=\"46SPCURkxS1DrpC1u2Rb2o8CUP2E9BX3DgzWRwlAekrD6eTjT3mJ9B7VXzqf/nxx\" serviceID=\"35\" m_fileSize=\"242\...
+[16:38:29.897][ERRO] ApiRejection { code: -70, message: '群消息发送失败，可能被风控' }
+[23:28:07.694][ERRO] Chromium实例关闭或崩溃！
+[23:28:07.703][ERRO] Chromium实例关闭或崩溃！
+[18:48:54.107][ERRO] [原神签到失败][uid:174123897][qq:471240815 ] 绑定cookie已失效
+[18:50:16.765][ERRO] [原神签到失败][uid:172471015][qq:2199823462] 绑定cookie已失效
+[18:52:10.472][ERRO] 发送消息错误:{"type":"xml","data":"<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<msg brief=\"[聊天记录]\" m_fileName=\"FB832AFD-07F1-F5E6-B669-C0FE8FB3769A\" action=\"viewMultiMsg\" tSum=\"2\" flag=\"3\" m_resid=\"2VT0k0ZzRciCb3n2lh5hbYJpGXhHh99jYG05FZ2TX9PZaZgkE/afNcxt5+GlaT8T\" serviceID=\"35\" m_fileSize=\"370\...
+[18:52:10.474][ERRO] ApiRejection { code: -70, message: '群消息发送失败，可能被风控' }
+[21:03:39.932][ERRO] 发送消息错误:{"type":"xml","data":"<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<msg brief=\"[聊天记录]\" m_fileName=\"E712C1F2-E9E9-AEB7-1F5F-D08228DA6AEE\" action=\"viewMultiMsg\" tSum=\"3\" flag=\"3\" m_resid=\"8TvhYxNgN3hakg8H6VBVy/5tocWJgc+JCzO1Nlkchhu4n/F/hyNSsQwtAdwI7TjQ\" serviceID=\"35\" m_fileSize=\"475\...
+[21:03:39.932][ERRO] ApiRejection { code: -70, message: '群消息发送失败，可能被风控' }
+[23:14:33.940][ERRO] Chromium实例关闭或崩溃！
+[23:14:33.942][ERRO] Chromium实例关闭或崩溃！
+[23:55:18.825][ERRO] Chromium实例关闭或崩溃！
+[14:40:00.016][ERRO] 定时任务报错：检测b站推送定时任务
+[14:40:00.016][ERRO] FetchError: request to https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/space?host_mid=286274103 failed, reason: connect EACCES 120.192.82.77:443
+    at ClientRequest.<anonymous> (file:///E:/yunzai/Yunzai-Bot/node_modules/.pnpm/node-fetch@3.2.6/node_modules/node-fetch/src/index.js:108:11)
+    at ClientRequest.emit (node:events:527:28)
+    at TLSSocket.socketErrorListener (node:_http_client:454:9)
+    at TLSSocket.emit (node:events:527:28)
+    at emitErrorNT (node:internal/streams/destroy:157:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  type: 'system',
+  errno: 'EACCES',
+  code: 'EACCES',
+  erroredSysCall: 'connect'
+}
+[14:40:00.092][ERRO] FetchError: request to https://bbs-api.mihoyo.com/post/wapi/getNewsList?gids=2&page_size=10&type=1 failed, reason: connect EACCES 203.107.60.77:443
+[14:40:00.093][ERRO] FetchError: request to https://bbs-api.mihoyo.com/post/wapi/getNewsList?gids=2&page_size=10&type=3 failed, reason: connect EACCES 203.107.60.77:443
+[14:45:00.143][ERRO] FetchError: request to https://bbs-api.mihoyo.com/post/wapi/getNewsList?gids=2&page_size=10&type=1 failed, reason: connect EACCES 203.107.60.77:443
+[14:45:00.145][ERRO] FetchError: request to https://bbs-api.mihoyo.com/post/wapi/getNewsList?gids=2&page_size=10&type=3 failed, reason: connect EACCES 203.107.60.77:443
+[20:25:27.042][ERRO] 载入插件错误：[31menka[39m
+[20:25:27.043][ERRO] Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'enka-network-api' imported from E:\yunzai\Yunzai-Bot\plugins\genshin\model\enkaNetwork.js
+    at new NodeError (node:internal/errors:372:5)
+    at packageResolve (node:internal/modules/esm/resolve:954:9)
+    at moduleResolve (node:internal/modules/esm/resolve:1003:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1218:11)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:580:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:294:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:80:40)
+    at link (node:internal/modules/esm/module_job:78:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+[20:45:39.153][ERRO] 发送消息错误:{"type":"image","file":"https://upload-bbs.mihoyo.com/upload/2022/03/04/272695099/2bcdb94ca88e5ce0b58cd29d48d1c2ec_1869083060962406383.jpg"}
+[20:45:39.153][ERRO] ApiRejection { code: -70, message: '群消息发送失败，可能被风控' }
+[17:30:40.193][ERRO] 载入插件错误：[31menka[39m
+[17:30:40.194][ERRO] Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'enka-network-api' imported from E:\yunzai\Yunzai-Bot\plugins\genshin\model\enkaNetwork.js
+    at new NodeError (node:internal/errors:372:5)
+    at packageResolve (node:internal/modules/esm/resolve:954:9)
+    at moduleResolve (node:internal/modules/esm/resolve:1003:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1218:11)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:580:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:294:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:80:40)
+    at link (node:internal/modules/esm/module_job:78:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+[16:51:10.007][ERRO] 载入插件错误：[31menka[39m
+[16:51:10.008][ERRO] Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'enka-network-api' imported from E:\yunzai\Yunzai-Bot\plugins\genshin\model\enkaNetwork.js
+    at new NodeError (node:internal/errors:372:5)
+    at packageResolve (node:internal/modules/esm/resolve:954:9)
+    at moduleResolve (node:internal/modules/esm/resolve:1003:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1218:11)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:580:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:294:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:80:40)
+    at link (node:internal/modules/esm/module_job:78:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+[22:25:20.550][ERRO] 载入插件错误：[31menka[39m
+[22:25:20.550][ERRO] Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'enka-network-api' imported from E:\yunzai\Yunzai-Bot\plugins\genshin\model\enkaNetwork.js
+    at new NodeError (node:internal/errors:372:5)
+    at packageResolve (node:internal/modules/esm/resolve:954:9)
+    at moduleResolve (node:internal/modules/esm/resolve:1003:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1218:11)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:580:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:294:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:80:40)
+    at link (node:internal/modules/esm/module_job:78:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+[22:31:23.219][ERRO] Chromium实例关闭或崩溃！
+[22:31:23.220][ERRO] Chromium实例关闭或崩溃！
+[22:32:11.289][ERRO] 载入插件错误：[31menka[39m
+[22:32:11.290][ERRO] Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'enka-network-api' imported from E:\yunzai\Yunzai-Bot\plugins\genshin\model\enkaNetwork.js
+    at new NodeError (node:internal/errors:372:5)
+    at packageResolve (node:internal/modules/esm/resolve:954:9)
+    at moduleResolve (node:internal/modules/esm/resolve:1003:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1218:11)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:580:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:294:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:80:40)
+    at link (node:internal/modules/esm/module_job:78:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+[23:36:02.459][ERRO] Chromium实例关闭或崩溃！

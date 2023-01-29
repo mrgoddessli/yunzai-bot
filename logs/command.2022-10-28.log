@@ -1,0 +1,48 @@
+[17:30:27.573][MARK] Yunzai-Bot 启动中...
+[17:30:27.575][MARK] 连接redis....
+[17:30:27.592][MARK] 连接redis成功
+[17:30:27.934][MARK] 请使用登录当前QQ的手机[32m扫码[39m完成登录，如果显示二维码过期，可以按[32m回车键（Enter）[39m刷新，重新输入密码请执行命令：[32mnpm run login[39m
+[17:30:40.005][MARK] ----^_^----
+[17:30:40.006][MARK] [32mYunzai-Bot 上线成功 版本v3.0.0[39m
+[17:30:40.009][MARK] [32mhttps://github.com/Le-niao/Yunzai-Bot[39m
+[17:30:40.193][ERRO] 载入插件错误：[31menka[39m
+[17:30:40.194][ERRO] Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'enka-network-api' imported from E:\yunzai\Yunzai-Bot\plugins\genshin\model\enkaNetwork.js
+    at new NodeError (node:internal/errors:372:5)
+    at packageResolve (node:internal/modules/esm/resolve:954:9)
+    at moduleResolve (node:internal/modules/esm/resolve:1003:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1218:11)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:580:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:294:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:80:40)
+    at link (node:internal/modules/esm/module_job:78:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+[17:30:41.722][MARK] 发送好友消息[Mr.Goddess](215381250)
+[17:31:14.479][MARK] [发送表情][数据结构必拿下🖐️(牛马)] 1！5！
+[17:31:21.062][MARK] [喵喵:角色面板][profileDetail][数据结构必拿下🖐️(牛马)] 宵宫面板
+[17:31:21.074][MARK] [米游社查询][uid：107192135][32m[使用已绑定ck：179571376][39m
+[17:31:21.292][MARK] puppeteer Chromium 启动中。。
+[17:31:22.382][MARK] puppeteer Chromium 启动成功
+[17:31:23.623][MARK] [图片生成][miao-plugin/character/profile-detail][1次] 448.32kb [32m1213ms[39m
+[17:31:24.769][MARK] [喵喵:角色面板][profileDetail] 宵宫面板 处理完成 3704ms
+[17:31:50.027][MARK] [喵喵:角色面板][profileDetail][数据结构必拿下🖐️(牛马)] 胡桃面板
+[17:31:51.217][MARK] [图片生成][miao-plugin/character/profile-detail][2次] 446.77kb [32m1160ms[39m
+[17:31:53.433][MARK] [喵喵:角色面板][profileDetail] 胡桃面板 处理完成 3404ms
+[17:32:21.034][MARK] [喵喵:角色面板][profileDetail][数据结构必拿下🖐️(牛马)] 砂糖面板
+[17:32:21.037][MARK] [米游社查询][uid：107192135][32m[使用已绑定ck：179571376][39m
+[17:32:22.241][MARK] [图片生成][miao-plugin/character/profile-detail][3次] 419.93kb [32m1185ms[39m
+[17:32:24.049][MARK] [喵喵:角色面板][profileDetail] 砂糖面板 处理完成 3013ms
+[17:32:28.165][MARK] [喵喵:角色面板][profileDetail][数据结构必拿下🖐️(牛马)] #更新面板
+[17:32:28.166][MARK] [喵喵:角色面板][profileRefresh][数据结构必拿下🖐️(牛马)] #更新面板
+[17:32:35.170][MARK] [图片生成][miao-plugin/character/profile-list][4次] 428.05kb [32m1160ms[39m
+[17:32:37.120][MARK] [喵喵:角色面板][profileRefresh] #更新面板 处理完成 8954ms
+[17:32:49.115][MARK] [喵喵:角色面板][profileDetail][数据结构必拿下🖐️(牛马)] 砂糖面板
+[17:32:50.287][MARK] [图片生成][miao-plugin/character/profile-detail][5次] 427.48kb [32m1158ms[39m
+[17:32:53.059][MARK] [喵喵:角色面板][profileDetail] 砂糖面板 处理完成 3943ms
+[17:33:09.051][MARK] [喵喵:角色面板][profileDetail][数据结构必拿下🖐️(牛马)] 行秋面板
+[17:33:09.053][MARK] [米游社查询][uid：107192135][32m[使用已绑定ck：179571376][39m
+[17:33:10.268][MARK] [图片生成][miao-plugin/character/profile-detail][6次] 427.73kb [32m1197ms[39m
+[17:33:12.559][MARK] [喵喵:角色面板][profileDetail] 行秋面板 处理完成 3507ms
+[17:33:16.100][MARK] [喵喵:角色面板][profileDetail][数据结构必拿下🖐️(牛马)] 夜兰面板
+[17:33:17.307][MARK] [图片生成][miao-plugin/character/profile-detail][7次] 477.34kb [32m1190ms[39m
+[17:33:19.476][MARK] [喵喵:角色面板][profileDetail] 夜兰面板 处理完成 3375ms
